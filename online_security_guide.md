@@ -417,7 +417,7 @@ If you've never used Linux before and want something that feels familiar, Linux 
 Linux Mint is a free and open-source operating system based on Ubuntu (one of the most popular Linux distributions). It has multiple desktop environments, but the Cinnamon Edition is the most Windows-like, offering a familiar layout with a Start Menu, taskbar, system tray, and file explorer.
 
 *(Example of Linux Mint Cinnamon's desktop – looks a lot like Windows!)*
-![Linux Mint Desktop Image](images/linux_mint_example.png)
+![Linux Mint Desktop Image](images/linux_mint_example.png)<br>
 *(Image credit ExtremeTech.com)*
 
 ### Pros & Cons of Linux Mint Cinnamon
